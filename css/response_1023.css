@@ -1,0 +1,302 @@
+@media (max-width: 1023px)
+{
+    /*---------------
+        Main styles
+    ---------------*/
+    :root
+    {
+        --font_size: 15px;
+    }
+
+
+
+    .breadcrumbs
+    {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .page_title
+    {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+
+
+    .text_block
+    {
+        line-height: 21px;
+    }
+
+    .text_block figure,
+    .text_block .table_wrap
+    {
+        margin: 35px 0;
+    }
+
+    .text_block.mini figure
+    {
+        width: calc(100% + 40px);
+        margin-right: -20px;
+        margin-left: -20px;
+    }
+
+    .text_block figure figcaption
+    {
+        margin-top: 15px;
+    }
+
+
+
+    .owl-carousel .owl-nav button
+    {
+        width: 50px;
+        height: 90px;
+        margin-top: -45px;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev
+    {
+        left: -50px;
+    }
+
+    .owl-carousel .owl-nav button.owl-next
+    {
+        right: -50px;
+    }
+
+    .owl-carousel .owl-nav button:before
+    {
+        left: 15px;
+
+        width: 30px;
+        height: 30px;
+    }
+
+
+
+    /*---------------
+        Header
+    ---------------*/
+
+
+
+    /*---------------
+        Sidebar
+    ---------------*/
+
+
+
+    /*---------------
+        Main section
+    ---------------*/
+    .projects .flex > *
+    {
+        width: calc(33.333% - 20px);
+    }
+
+    .projects .item
+    {
+        font-size: 18px;
+        line-height: 26px;
+
+        padding-bottom: calc(30.333% - 20px);
+    }
+
+    .projects .item:before
+    {
+        opacity: .7;
+    }
+
+    .projects .item .name
+    {
+        opacity: 1;
+    }
+
+
+
+    .project_info .gallery
+    {
+        padding: 0 30px;
+    }
+
+    .project_info .gallery .thumbs > * + *
+    {
+        margin-left: 15px;
+    }
+
+    .project_info .gallery .thumbs button
+    {
+        padding-bottom: 62px;
+    }
+
+
+    .project_info .info_block .title
+    {
+        font-size: 20px;
+        line-height: 26px;
+
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .project_info .info_block .text_block
+    {
+        width: 100%;
+    }
+
+
+
+    .about_info .data
+    {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .about_info .block_title
+    {
+        font-size: 28px;
+
+        margin-bottom: 20px;
+    }
+
+    .about_info .text_block
+    {
+        font-size: 14px;
+    }
+
+    .about_info .image
+    {
+        width: 100%;
+        max-width: 100%;
+        margin-top: 20px;
+        margin-right: 0;
+    }
+
+
+
+    .about_big_boss .data
+    {
+        max-width: calc(60% - 12px);
+    }
+
+    .about_big_boss .block_title
+    {
+        font-size: 20px;
+
+        margin-bottom: 16px;
+    }
+
+    .about_big_boss .name,
+    .about_big_boss .post
+    {
+        font-size: 15px;
+    }
+
+    .about_big_boss .text_block
+    {
+        font-size: 14px;
+
+        margin-top: 25px;
+    }
+
+
+
+    .about_team .row
+    {
+        margin-bottom: -20px;
+        margin-left: -20px;
+    }
+
+    .about_team .row > *
+    {
+        width: calc(33.333% - 20px);
+        margin-bottom: 20px;
+        margin-left: 20px;
+    }
+
+
+
+    .about_workflow .data
+    {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .about_workflow .gallery
+    {
+        width: 100%;
+        max-width: 100%;
+        margin-top: 40px;
+    }
+
+
+
+    .about_advantages .block_title
+    {
+        font-size: 28px;
+
+        margin-bottom: 30px;
+    }
+
+
+    .about_advantages .item
+    {
+        font-size: 15px;
+    }
+
+    .about_advantages .item .icon
+    {
+        width: 72px;
+        height: 72px;
+    }
+
+    .about_advantages .item .icon + *
+    {
+        width: calc(100% - 96px);
+    }
+
+
+
+    .action_form .data .title
+    {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .action_form .data .now
+    {
+        font-size: 26px;
+        line-height: 30px;
+
+        margin-top: 30px;
+    }
+
+    .action_form .data .desc
+    {
+        margin-top: 25px;
+    }
+
+    .action_form .data .img
+    {
+        right: -210px;
+    }
+
+    .action_form .form
+    {
+        padding: 30px 40px;
+    }
+
+
+
+    /*---------------
+        Footer
+    ---------------*/
+
+
+
+    /*---------------
+        PopUp
+    ---------------*/
+}

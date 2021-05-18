@@ -1,0 +1,253 @@
+@media (max-width: 479px)
+{
+    /*---------------
+        Main styles
+    ---------------*/
+    .page_head .cont > * + *
+    {
+        margin-top: 10px;
+    }
+
+    .page_title
+    {
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+
+
+    .text_block .table_wrap
+    {
+        width: calc(100% + 40px);
+        max-width: calc(100% + 40px);
+        margin-right: -20px;
+        margin-left: -20px;
+    }
+
+    .text_block table td
+    {
+        padding: 10px 20px;
+    }
+
+
+    .text_block .message
+    {
+        width: calc(100% + 40px);
+        margin-right: -20px;
+        margin-left: -20px;
+        padding: 24px 20px;
+    }
+
+
+
+    .owl-carousel .owl-nav button
+    {
+        width: 30px;
+        height: 70px;
+        margin-top: -35px;
+
+        background: #fff;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev
+    {
+        left: 0;
+    }
+
+    .owl-carousel .owl-nav button.owl-next
+    {
+        right: 0;
+    }
+
+    .owl-carousel .owl-nav button:before
+    {
+        left: 8px;
+
+        width: 18px;
+        height: 18px;
+    }
+
+
+
+    /*---------------
+        Header
+    ---------------*/
+
+
+
+    /*---------------
+        Sidebar
+    ---------------*/
+
+
+
+    /*---------------
+        Main section
+    ---------------*/
+    .projects .flex
+    {
+        margin-bottom: -15px;
+        margin-left: -15px;
+    }
+
+    .projects .flex > *
+    {
+        width: calc(50% - 15px);
+        margin-bottom: 15px;
+        margin-left: 15px;
+    }
+
+    .projects .item
+    {
+        font-size: 14px;
+        line-height: 20px;
+
+        padding-bottom: calc(45% - 15px);
+    }
+
+    .projects .item .name
+    {
+        padding: 10px;
+    }
+
+
+
+    .project_info .gallery
+    {
+        width: calc(100% + 40px);
+        max-width: calc(100% + 40px);
+        margin-right: -20px;
+        margin-bottom: 40px;
+        margin-left: -20px;
+        padding: 0;
+    }
+
+    .project_info .gallery .thumbs
+    {
+        display: none;
+    }
+
+
+    .project_info .info_block .title
+    {
+        font-size: 17px;
+        line-height: 21px;
+    }
+
+
+
+    .about_big_boss
+    {
+        margin-bottom: 110px;
+    }
+
+    .about_big_boss .quote
+    {
+        font-size: 15px;
+
+        margin-bottom: -60px;
+        padding: 45px 40px;
+    }
+
+    .about_big_boss .quote:before
+    {
+        left: 20px;
+    }
+
+
+
+    .about_team .row > *
+    {
+        width: calc(100% - 20px);
+    }
+
+    .about_team .person .info_btn,
+    .about_team .person .links
+    {
+        top: 22px;
+        right: 22px;
+    }
+
+    .about_team .person .additional_info
+    {
+        padding: 120px 40px 40px 40px;
+    }
+
+    .about_team .person .additional_info .name
+    {
+        font-size: 14px;
+    }
+
+    .about_team .person .additional_info .post
+    {
+        font-size: 12px;
+
+        margin-top: 12px;
+    }
+
+    .about_team .person .additional_info .education
+    {
+        font-size: 11px;
+
+        margin-top: 20px;
+    }
+
+
+
+    .about_advantages .block_title
+    {
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+
+    .about_advantages .data
+    {
+        padding: 34px 28px;
+    }
+
+
+
+    .action_form .data .img
+    {
+        right: -170px;
+    }
+
+
+
+    .action_form .form
+    {
+        padding: 24px 28px;
+    }
+
+    .action_form .form .bottom .agree
+    {
+        width: 100%;
+        margin-bottom: 16px;
+    }
+
+    .action_form .form input[type=checkbox] + label
+    {
+        font-size: 14px;
+
+        padding-left: 36px;
+    }
+
+    .action_form .form .submit,
+    .action_form .form .submit_btn
+    {
+        width: 100%;
+    }
+
+
+
+    /*---------------
+        Footer
+    ---------------*/
+
+
+
+    /*---------------
+        PopUp
+    ---------------*/
+}

@@ -1,0 +1,266 @@
+@media print, (max-width: 1439px)
+{
+    .owl-carousel .owl-nav button.owl-prev
+    {
+        left: -80px;
+    }
+
+    .owl-carousel .owl-nav button.owl-next
+    {
+        right: -80px;
+    }
+
+
+
+    .text_block .message
+    {
+        padding: 24px 32px;
+    }
+
+
+
+    .about_info
+    {
+        margin-bottom: 80px;
+    }
+
+
+    .about_info .data
+    {
+        max-width: calc(55% - 24px);
+    }
+
+    .about_info .block_title
+    {
+        font-size: 32px;
+
+        margin-bottom: 30px;
+    }
+
+    .about_info .text_block
+    {
+        font-size: 15px;
+    }
+
+    .about_info .text_block > * + *
+    {
+        margin-top: 20px;
+    }
+
+
+    .about_info .image
+    {
+        max-width: calc(45% - 4px);
+    }
+
+
+
+    .about_big_boss
+    {
+        margin-bottom: 140px;
+        padding: 60px 0 0;
+    }
+
+
+    .about_big_boss .block_title
+    {
+        font-size: 22px;
+
+        margin-bottom: 20px;
+    }
+
+    .about_big_boss .name,
+    .about_big_boss .post
+    {
+        font-size: 16px;
+    }
+
+    .about_big_boss .text_block
+    {
+        font-size: 15px;
+
+        margin-top: 30px;
+    }
+
+    .about_big_boss .text_block > * + *
+    {
+        margin-top: 20px;
+    }
+
+
+    .about_big_boss .quote
+    {
+        font-size: 16px;
+
+        width: 704px;
+        margin-top: 40px;
+        margin-bottom: -80px;
+        padding: 40px 60px;
+    }
+
+    .about_big_boss .quote:before
+    {
+        top: 4px;
+        left: 24px;
+    }
+
+    .about_big_boss .quote:after
+    {
+        right: 24px;
+        bottom: -12px;
+    }
+
+
+
+    .about_team
+    {
+        margin-bottom: 80px;
+    }
+
+    .about_team .block_title
+    {
+        margin-bottom: 30px;
+    }
+
+
+    .about_team .person .info
+    {
+        bottom: 20px;
+        left: 20px;
+
+        width: calc(100% - 40px);
+        padding: 12px 16px;
+    }
+
+
+
+    .about_workflow
+    {
+        margin-bottom: 80px;
+        padding: 80px 0;
+    }
+
+    .about_workflow .block_title
+    {
+        margin-bottom: 30px;
+    }
+
+    .about_workflow .text_block
+    {
+        font-size: 15px;
+    }
+
+    .about_workflow .text_block > * + *
+    {
+        margin-top: 20px;
+    }
+
+
+
+    .about_advantages .data
+    {
+        padding: 44px 34px;
+    }
+
+    .about_advantages .block_title
+    {
+        font-size: 32px;
+
+        margin-bottom: 40px;
+    }
+
+
+    .about_advantages .row
+    {
+        margin-bottom: -40px;
+    }
+
+    .about_advantages .row > *
+    {
+        width: calc(33.333% - 30px);
+        margin-bottom: 40px;
+    }
+
+
+    .about_advantages .item
+    {
+        font-size: 17px;
+    }
+
+
+
+    .action_form
+    {
+        margin-bottom: 80px;
+    }
+
+
+    .action_form .data
+    {
+        width: 430px;
+    }
+
+    .action_form .data .title
+    {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .action_form .data .title > * + *
+    {
+        margin-top: 20px;
+    }
+
+    .action_form .data .now
+    {
+        font-size: 28px;
+        line-height: 34px;
+
+        margin-top: 40px;
+    }
+
+    .action_form .data .desc
+    {
+        margin-top: 30px;
+    }
+
+
+    .action_form .form
+    {
+        max-width: calc(100% - 500px);
+        padding: 35px 40px;
+    }
+
+    .action_form .form .title
+    {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .action_form .form .cols .col
+    {
+        width: calc(50% - 12px);
+    }
+
+    .action_form .form .line
+    {
+        margin-bottom: 12px;
+    }
+
+    .action_form .form textarea
+    {
+        height: 102px;
+    }
+
+    .action_form .form input[type=checkbox] + label
+    {
+        padding-left: 40px;
+    }
+
+    .action_form .form .submit_btn
+    {
+        font-size: 17px;
+
+        padding: 18px 40px;
+    }
+}
